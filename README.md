@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-I’m a Blockbench modeler, amateur animator, and an aspiring Hytale mod creator who just really enjoys building and experimenting with cool ideas. Most of my work starts as me tinkering around and seeing what I can bring to life — whether that’s stylized models, small animation tests, or early mod concepts.
+I’m a Blockbench modeler, amateur animator,an aspiring programmer and Hytale mod creator who just really enjoys building and experimenting with cool ideas. Most of my work starts as me tinkering around and seeing what I can bring to life — whether that’s stylized models, small animation tests, or early mod concepts.
 
 I’m always learning, always improving, and figuring things out as I go. My goal is to create fun, immersive content and eventually contribute more to the Hytale modding scene. If you’re into modeling, animation, or modding, I’m always down to connect and share ideas.<br>
 
